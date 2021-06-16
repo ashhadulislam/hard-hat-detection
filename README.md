@@ -6,4 +6,6 @@ Step 3: Execute the ModelTrain.ipynb notebook. This sill create the model and sa
 
 Step 4: Run the Person_HardHatDetection.ipynb to check the efficacy of the model. The images downloaded from the internet are stored in the end_end_test folder. This code reads the images from that folder and gives the output.
 
-Note: face_recognition model needs dlib to be installed, the instructions can be found at https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf
+Note1: face_recognition model needs dlib to be installed, the instructions can be found at https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf
+
+Note2: The pre trained vgg16 model can be downloaded from https://drive.google.com/file/d/1EhAUdR9eOi26HTvq6Q9oJEMKf-UAa74r/view?usp=sharing
